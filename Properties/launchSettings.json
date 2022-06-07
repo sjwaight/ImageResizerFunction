@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Image_Resizer": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7211",
+      "launchBrowser": false
+    }
+  }
+}
